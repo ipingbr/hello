@@ -9,6 +9,7 @@
   "author": "ping <iping.th@gmail.com>",
   "license": "MIT",
   "dependencies": {
+    "chai": "^4.2.0",
     "express": "^4.17.1",
     "junit": "^1.4.9"
   },
