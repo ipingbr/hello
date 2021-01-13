@@ -10,7 +10,8 @@ describe('add()', function() {
   var tests = [
     {args: [1, 2], expected: 3},
     {args: [1, 2, 3], expected: 6},
-    {args: [1, 2, 3, 4], expected: 10}
+    {args: [1, 2, 3, 4], expected: 10},
+    {args: [1, 2, 3,4,5], expected: 14},
   ];
 
   tests.forEach(function(test) {
